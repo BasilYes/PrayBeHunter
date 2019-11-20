@@ -1,0 +1,9 @@
+Saved/
+Intermediate/
+gitignore/
+
+Build/
+
+Binaries/
+DerivedDataCache/
+.vs/
